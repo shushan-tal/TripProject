@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "huZMkNqgLAY=",
-  "success": false,
+  "dgSpecHash": "fUbSePPraWw=",
+  "success": true,
   "projectFilePath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usern\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
@@ -72,15 +72,5 @@
     "C:\\Users\\usern\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\usern\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository\\Repository.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository\\Repository.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

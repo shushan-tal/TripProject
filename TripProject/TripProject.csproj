@@ -12,8 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\TripProject\Service\Service.csproj" />
-    <ProjectReference Include="..\Dto\Dto.csproj" />
-    <ProjectReference Include="..\Service\Service.csproj" />
+    <!--<ProjectReference Include="..\Dto\Dto.csproj" />-->
   </ItemGroup>
 
 </Project>

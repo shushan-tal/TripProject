@@ -9,3 +9,15 @@ U:\ו תכנות\תלמידות\טלטול החיימשלנו!\java screept\Trip
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\java screept\TripProject\Entity\obj\Debug\net8.0\refint\Entity.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\java screept\TripProject\Entity\obj\Debug\net8.0\Entity.pdb
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\java screept\TripProject\Entity\obj\Debug\net8.0\ref\Entity.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Entity\bin\Debug\net8.0\Entity.deps.json
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Entity\bin\Debug\net8.0\Entity.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Entity\bin\Debug\net8.0\Entity.pdb
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Entity\obj\Debug\net8.0\Entity.sourcelink.json
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Entity\obj\Debug\net8.0\Entity.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Entity\obj\Debug\net8.0\refint\Entity.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Entity\obj\Debug\net8.0\Entity.pdb
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Entity\obj\Debug\net8.0\ref\Entity.dll

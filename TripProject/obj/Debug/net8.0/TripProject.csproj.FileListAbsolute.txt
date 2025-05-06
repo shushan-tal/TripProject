@@ -34,3 +34,10 @@ U:\ו תכנות\תלמידות\טלטול החיימשלנו!\java screept\Trip
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\java screept\TripProject\TripProject\obj\Debug\net8.0\TripProject.pdb
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\java screept\TripProject\TripProject\obj\Debug\net8.0\TripProject.genruntimeconfig.cache
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\java screept\TripProject\TripProject\obj\Debug\net8.0\ref\TripProject.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\obj\Debug\net8.0\TripProject.csproj.AssemblyReference.cache
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\obj\Debug\net8.0\TripProject.GeneratedMSBuildEditorConfig.editorconfig
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\obj\Debug\net8.0\TripProject.AssemblyInfoInputs.cache
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\obj\Debug\net8.0\TripProject.AssemblyInfo.cs
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\obj\Debug\net8.0\TripProject.csproj.CoreCompileInputs.cache
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\obj\Debug\net8.0\TripProject.MvcApplicationPartsAssemblyInfo.cache
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\obj\Debug\net8.0\TripProject.sourcelink.json
