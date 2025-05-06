@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\tripproject\\controllers\\tripcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|solutionrelative:tripproject\\controllers\\tripcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\tripproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|solutionrelative:tripproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TripControllers.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Controllers\\TripControllers.cs",
+              "RelativeDocumentMoniker": "TripProject\\Controllers\\TripControllers.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Controllers\\TripControllers.cs",
+              "RelativeToolTip": "TripProject\\Controllers\\TripControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:27:18.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "TripProject\\Controllers\\CustomerController.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "TripProject\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:25:33.519Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Entity\\Entity.csproj": {}
+    "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Entity\\Entity.csproj": {
+    "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Entity\\Entity.csproj",
+        "projectUniqueName": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Entity\\Entity.csproj",
+        "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\usern\\.nuget\\packages\\",
-        "outputPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Entity\\obj\\",
+        "outputPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

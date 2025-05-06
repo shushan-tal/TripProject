@@ -10,7 +10,7 @@ namespace TripProject.Controllers
     [ApiController]
     public class TripControllers : ControllerBase
     {
-        private IService<TripDto> service;
+        private readonly IService<TripDto> service;
         public TripControllers(IService<TripDto> service)
         {
             this.service = service;
