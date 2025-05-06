@@ -3479,8 +3479,8 @@
     },
     "Entity/1.0.0": {
       "type": "project",
-      "path": "../../../TripProject/Entity/Entity.csproj",
-      "msbuildProject": "../../../TripProject/Entity/Entity.csproj"
+      "path": "../Entity/Entity.csproj",
+      "msbuildProject": "../Entity/Entity.csproj"
     },
     "Repository/1.0.0": {
       "type": "project",
@@ -3490,6 +3490,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Entity >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.0",
@@ -3529,6 +3530,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj": {
+              "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj"
+            },
             "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Repository\\Repository.csproj": {
               "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Repository\\Repository.csproj"
             }

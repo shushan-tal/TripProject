@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entity.Model
+namespace Dto.dtos
 {
     public class CustumerDto
     {
@@ -14,6 +14,6 @@ namespace Entity.Model
         public string Name { get; set; }
         public string Mail { get; set; }
         public string Password { get; set; }
-        public ICollection<CommendDto> Commends { get; set; }
+        
     }
 }

@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Dto.dtos;
+using Microsoft.AspNetCore.Mvc;
+using Service.Interfaces;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -8,36 +10,44 @@ namespace TripProject.Controllers
     [ApiController]
     public class CustomerController : ControllerBase
     {
+        private readonly IService<CustumerDto> service;
+        public CustomerController(IService<CustumerDto> service)
+        {
+            this.service = service;
+        }
         // GET: api/<CustomerController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public List<CustumerDto> Get()
         {
-            return new string[] { "value1", "value2" };
+            return service.GetAll();
         }
 
         // GET api/<CustomerController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public CustumerDto Get(int id)
         {
-            return "value";
+            return service.GetById(id);
         }
 
         // POST api/<CustomerController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public CustumerDto Post([FromForm] CustumerDto custumer)
         {
+            return service.AddItem(custumer);
         }
 
         // PUT api/<CustomerController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public void Put(int id, [FromForm] CustumerDto custumer)
         {
+            service.Update(id, custumer);
         }
 
         // DELETE api/<CustomerController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            service.DeleteItem(id);
         }
     }
 }

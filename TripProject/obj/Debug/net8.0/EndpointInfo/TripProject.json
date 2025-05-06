@@ -1,0 +1,1381 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "TripProject",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Commend": {
+      "get": {
+        "tags": [
+          "Commend"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CommendDto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CommendDto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CommendDto"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Commend"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Date": {
+                    "type": "string",
+                    "format": "date-time"
+                  },
+                  "Rating": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Description": {
+                    "type": "string"
+                  },
+                  "IdCustumer": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Custumer.Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Custumer.Name": {
+                    "type": "string"
+                  },
+                  "Custumer.Mail": {
+                    "type": "string"
+                  },
+                  "Custumer.Password": {
+                    "type": "string"
+                  },
+                  "IdTrip": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Trip.Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Trip.Name": {
+                    "type": "string"
+                  },
+                  "Trip.Description": {
+                    "type": "string"
+                  },
+                  "Trip.Type": {
+                    "$ref": "#/components/schemas/eType"
+                  },
+                  "Trip.Age": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Trip.HardLevel": {
+                    "$ref": "#/components/schemas/eHardLevel"
+                  },
+                  "Trip.HowLongTime": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Trip.Season": {
+                    "$ref": "#/components/schemas/eSeason"
+                  },
+                  "Trip.Area": {
+                    "$ref": "#/components/schemas/eArea"
+                  },
+                  "Trip.Adress": {
+                    "type": "string"
+                  },
+                  "Trip.Rating": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Trip.Price": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Trip.DryOrWet": {
+                    "$ref": "#/components/schemas/eDryOrWet"
+                  },
+                  "Trip.ImageArr": {
+                    "type": "string",
+                    "format": "byte"
+                  },
+                  "Trip.file": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Id": {
+                  "style": "form"
+                },
+                "Date": {
+                  "style": "form"
+                },
+                "Rating": {
+                  "style": "form"
+                },
+                "Description": {
+                  "style": "form"
+                },
+                "IdCustumer": {
+                  "style": "form"
+                },
+                "Custumer.Id": {
+                  "style": "form"
+                },
+                "Custumer.Name": {
+                  "style": "form"
+                },
+                "Custumer.Mail": {
+                  "style": "form"
+                },
+                "Custumer.Password": {
+                  "style": "form"
+                },
+                "IdTrip": {
+                  "style": "form"
+                },
+                "Trip.Id": {
+                  "style": "form"
+                },
+                "Trip.Name": {
+                  "style": "form"
+                },
+                "Trip.Description": {
+                  "style": "form"
+                },
+                "Trip.Type": {
+                  "style": "form"
+                },
+                "Trip.Age": {
+                  "style": "form"
+                },
+                "Trip.HardLevel": {
+                  "style": "form"
+                },
+                "Trip.HowLongTime": {
+                  "style": "form"
+                },
+                "Trip.Season": {
+                  "style": "form"
+                },
+                "Trip.Area": {
+                  "style": "form"
+                },
+                "Trip.Adress": {
+                  "style": "form"
+                },
+                "Trip.Rating": {
+                  "style": "form"
+                },
+                "Trip.Price": {
+                  "style": "form"
+                },
+                "Trip.DryOrWet": {
+                  "style": "form"
+                },
+                "Trip.ImageArr": {
+                  "style": "form"
+                },
+                "Trip.file": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CommendDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CommendDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CommendDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Commend/{id}": {
+      "get": {
+        "tags": [
+          "Commend"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CommendDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CommendDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CommendDto"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Commend"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Date": {
+                    "type": "string",
+                    "format": "date-time"
+                  },
+                  "Rating": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Description": {
+                    "type": "string"
+                  },
+                  "IdCustumer": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Custumer.Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Custumer.Name": {
+                    "type": "string"
+                  },
+                  "Custumer.Mail": {
+                    "type": "string"
+                  },
+                  "Custumer.Password": {
+                    "type": "string"
+                  },
+                  "IdTrip": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Trip.Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Trip.Name": {
+                    "type": "string"
+                  },
+                  "Trip.Description": {
+                    "type": "string"
+                  },
+                  "Trip.Type": {
+                    "$ref": "#/components/schemas/eType"
+                  },
+                  "Trip.Age": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Trip.HardLevel": {
+                    "$ref": "#/components/schemas/eHardLevel"
+                  },
+                  "Trip.HowLongTime": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Trip.Season": {
+                    "$ref": "#/components/schemas/eSeason"
+                  },
+                  "Trip.Area": {
+                    "$ref": "#/components/schemas/eArea"
+                  },
+                  "Trip.Adress": {
+                    "type": "string"
+                  },
+                  "Trip.Rating": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Trip.Price": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Trip.DryOrWet": {
+                    "$ref": "#/components/schemas/eDryOrWet"
+                  },
+                  "Trip.ImageArr": {
+                    "type": "string",
+                    "format": "byte"
+                  },
+                  "Trip.file": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Id": {
+                  "style": "form"
+                },
+                "Date": {
+                  "style": "form"
+                },
+                "Rating": {
+                  "style": "form"
+                },
+                "Description": {
+                  "style": "form"
+                },
+                "IdCustumer": {
+                  "style": "form"
+                },
+                "Custumer.Id": {
+                  "style": "form"
+                },
+                "Custumer.Name": {
+                  "style": "form"
+                },
+                "Custumer.Mail": {
+                  "style": "form"
+                },
+                "Custumer.Password": {
+                  "style": "form"
+                },
+                "IdTrip": {
+                  "style": "form"
+                },
+                "Trip.Id": {
+                  "style": "form"
+                },
+                "Trip.Name": {
+                  "style": "form"
+                },
+                "Trip.Description": {
+                  "style": "form"
+                },
+                "Trip.Type": {
+                  "style": "form"
+                },
+                "Trip.Age": {
+                  "style": "form"
+                },
+                "Trip.HardLevel": {
+                  "style": "form"
+                },
+                "Trip.HowLongTime": {
+                  "style": "form"
+                },
+                "Trip.Season": {
+                  "style": "form"
+                },
+                "Trip.Area": {
+                  "style": "form"
+                },
+                "Trip.Adress": {
+                  "style": "form"
+                },
+                "Trip.Rating": {
+                  "style": "form"
+                },
+                "Trip.Price": {
+                  "style": "form"
+                },
+                "Trip.DryOrWet": {
+                  "style": "form"
+                },
+                "Trip.ImageArr": {
+                  "style": "form"
+                },
+                "Trip.file": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Commend"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Customer": {
+      "get": {
+        "tags": [
+          "Customer"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CustumerDto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CustumerDto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CustumerDto"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Customer"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Name": {
+                    "type": "string"
+                  },
+                  "Mail": {
+                    "type": "string"
+                  },
+                  "Password": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "Id": {
+                  "style": "form"
+                },
+                "Name": {
+                  "style": "form"
+                },
+                "Mail": {
+                  "style": "form"
+                },
+                "Password": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustumerDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustumerDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustumerDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Customer/{id}": {
+      "get": {
+        "tags": [
+          "Customer"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustumerDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustumerDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustumerDto"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Customer"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Name": {
+                    "type": "string"
+                  },
+                  "Mail": {
+                    "type": "string"
+                  },
+                  "Password": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "Id": {
+                  "style": "form"
+                },
+                "Name": {
+                  "style": "form"
+                },
+                "Mail": {
+                  "style": "form"
+                },
+                "Password": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Customer"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/TripControllers": {
+      "get": {
+        "tags": [
+          "TripControllers"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TripDto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TripDto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TripDto"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "TripControllers"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Name": {
+                    "type": "string"
+                  },
+                  "Description": {
+                    "type": "string"
+                  },
+                  "Type": {
+                    "$ref": "#/components/schemas/eType"
+                  },
+                  "Age": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "HardLevel": {
+                    "$ref": "#/components/schemas/eHardLevel"
+                  },
+                  "HowLongTime": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Season": {
+                    "$ref": "#/components/schemas/eSeason"
+                  },
+                  "Area": {
+                    "$ref": "#/components/schemas/eArea"
+                  },
+                  "Adress": {
+                    "type": "string"
+                  },
+                  "Rating": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Price": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "DryOrWet": {
+                    "$ref": "#/components/schemas/eDryOrWet"
+                  },
+                  "ImageArr": {
+                    "type": "string",
+                    "format": "byte"
+                  },
+                  "file": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Id": {
+                  "style": "form"
+                },
+                "Name": {
+                  "style": "form"
+                },
+                "Description": {
+                  "style": "form"
+                },
+                "Type": {
+                  "style": "form"
+                },
+                "Age": {
+                  "style": "form"
+                },
+                "HardLevel": {
+                  "style": "form"
+                },
+                "HowLongTime": {
+                  "style": "form"
+                },
+                "Season": {
+                  "style": "form"
+                },
+                "Area": {
+                  "style": "form"
+                },
+                "Adress": {
+                  "style": "form"
+                },
+                "Rating": {
+                  "style": "form"
+                },
+                "Price": {
+                  "style": "form"
+                },
+                "DryOrWet": {
+                  "style": "form"
+                },
+                "ImageArr": {
+                  "style": "form"
+                },
+                "file": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TripDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TripDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TripDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/TripControllers/{id}": {
+      "get": {
+        "tags": [
+          "TripControllers"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TripDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TripDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TripDto"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "TripControllers"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Name": {
+                    "type": "string"
+                  },
+                  "Description": {
+                    "type": "string"
+                  },
+                  "Type": {
+                    "$ref": "#/components/schemas/eType"
+                  },
+                  "Age": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "HardLevel": {
+                    "$ref": "#/components/schemas/eHardLevel"
+                  },
+                  "HowLongTime": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Season": {
+                    "$ref": "#/components/schemas/eSeason"
+                  },
+                  "Area": {
+                    "$ref": "#/components/schemas/eArea"
+                  },
+                  "Adress": {
+                    "type": "string"
+                  },
+                  "Rating": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Price": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "DryOrWet": {
+                    "$ref": "#/components/schemas/eDryOrWet"
+                  },
+                  "ImageArr": {
+                    "type": "string",
+                    "format": "byte"
+                  },
+                  "file": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Id": {
+                  "style": "form"
+                },
+                "Name": {
+                  "style": "form"
+                },
+                "Description": {
+                  "style": "form"
+                },
+                "Type": {
+                  "style": "form"
+                },
+                "Age": {
+                  "style": "form"
+                },
+                "HardLevel": {
+                  "style": "form"
+                },
+                "HowLongTime": {
+                  "style": "form"
+                },
+                "Season": {
+                  "style": "form"
+                },
+                "Area": {
+                  "style": "form"
+                },
+                "Adress": {
+                  "style": "form"
+                },
+                "Rating": {
+                  "style": "form"
+                },
+                "Price": {
+                  "style": "form"
+                },
+                "DryOrWet": {
+                  "style": "form"
+                },
+                "ImageArr": {
+                  "style": "form"
+                },
+                "file": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "TripControllers"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/getBy/{price}": {
+      "get": {
+        "tags": [
+          "TripControllers"
+        ],
+        "parameters": [
+          {
+            "name": "price",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TripDto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TripDto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TripDto"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CommendDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "date": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "rating": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "idCustumer": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "custumer": {
+            "$ref": "#/components/schemas/CustumerDto"
+          },
+          "idTrip": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "trip": {
+            "$ref": "#/components/schemas/TripDto"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CustumerDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "mail": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TripDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "type": {
+            "$ref": "#/components/schemas/eType"
+          },
+          "age": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "hardLevel": {
+            "$ref": "#/components/schemas/eHardLevel"
+          },
+          "howLongTime": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "season": {
+            "$ref": "#/components/schemas/eSeason"
+          },
+          "area": {
+            "$ref": "#/components/schemas/eArea"
+          },
+          "adress": {
+            "type": "string",
+            "nullable": true
+          },
+          "rating": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "price": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dryOrWet": {
+            "$ref": "#/components/schemas/eDryOrWet"
+          },
+          "imageArr": {
+            "type": "string",
+            "format": "byte",
+            "nullable": true
+          },
+          "file": {
+            "type": "string",
+            "format": "binary",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "eArea": {
+        "enum": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "eDryOrWet": {
+        "enum": [
+          0,
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "eHardLevel": {
+        "enum": [
+          0,
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "eSeason": {
+        "enum": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "eType": {
+        "enum": [
+          0,
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
+      }
+    }
+  }
+}

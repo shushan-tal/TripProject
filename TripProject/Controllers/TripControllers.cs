@@ -1,4 +1,5 @@
-﻿using Entity.Model;
+﻿using Dto.dtos;
+using Entity.Model;
 using Microsoft.AspNetCore.Mvc;
 using Service.Interfaces;
 
@@ -48,14 +49,16 @@ namespace TripProject.Controllers
 
         // PUT api/<TripControllers>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public void Put(int id, [FromForm] TripDto trip)
         {
+            service.Update(id, trip);
         }
 
         // DELETE api/<TripControllers>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            service.DeleteItem(id);
         }
     }
 }

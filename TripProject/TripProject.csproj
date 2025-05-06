@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -12,7 +12,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\TripProject\Service\Service.csproj" />
+    <ProjectReference Include="..\Data\Data.csproj" />
     <!--<ProjectReference Include="..\Dto\Dto.csproj" />-->
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
   </ItemGroup>
 
 </Project>

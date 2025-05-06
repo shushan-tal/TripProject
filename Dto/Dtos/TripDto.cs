@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entity.Model
+namespace Dto.dtos
 {
     public enum eType {מסלול,אטרקציה,מוזיאון }
     public enum eArea {צפון, דרום, מרכז, יהודה_ושומרון}
@@ -32,7 +32,7 @@ namespace Entity.Model
         public int Price { get; set; }
         public eDryOrWet DryOrWet { get; set; }
        
-        public ICollection<CommendDto> Commends { get; set; }
+      
         public byte[]? ImageArr { get; set; }
 
         public IFormFile? file { get; set; }

@@ -30,7 +30,8 @@ namespace Entity.Model
         public string Adress  { get; set; }
         public int Rating   { get; set; }
         public eDryOrWet DryOrWet { get; set; }
+        public string ImgUrl { get; set; }
         public ICollection<Commend> Commends { get; set; }
-        public string  ImgUrl { get; set; }
+        
     }
 }
