@@ -45,6 +45,7 @@ namespace TripProject.Controllers
                 trip.file.CopyTo(stream);
             }
             return service.AddItem(trip);
+            
         }
 
         // PUT api/<TripControllers>/5

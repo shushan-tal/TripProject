@@ -95,6 +95,10 @@
                   "Trip.Name": {
                     "type": "string"
                   },
+                  "Trip.Price": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
                   "Trip.Description": {
                     "type": "string"
                   },
@@ -122,10 +126,6 @@
                     "type": "string"
                   },
                   "Trip.Rating": {
-                    "type": "integer",
-                    "format": "int32"
-                  },
-                  "Trip.Price": {
                     "type": "integer",
                     "format": "int32"
                   },
@@ -179,6 +179,9 @@
                 "Trip.Name": {
                   "style": "form"
                 },
+                "Trip.Price": {
+                  "style": "form"
+                },
                 "Trip.Description": {
                   "style": "form"
                 },
@@ -204,9 +207,6 @@
                   "style": "form"
                 },
                 "Trip.Rating": {
-                  "style": "form"
-                },
-                "Trip.Price": {
                   "style": "form"
                 },
                 "Trip.DryOrWet": {
@@ -349,6 +349,10 @@
                   "Trip.Name": {
                     "type": "string"
                   },
+                  "Trip.Price": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
                   "Trip.Description": {
                     "type": "string"
                   },
@@ -376,10 +380,6 @@
                     "type": "string"
                   },
                   "Trip.Rating": {
-                    "type": "integer",
-                    "format": "int32"
-                  },
-                  "Trip.Price": {
                     "type": "integer",
                     "format": "int32"
                   },
@@ -433,6 +433,9 @@
                 "Trip.Name": {
                   "style": "form"
                 },
+                "Trip.Price": {
+                  "style": "form"
+                },
                 "Trip.Description": {
                   "style": "form"
                 },
@@ -458,9 +461,6 @@
                   "style": "form"
                 },
                 "Trip.Rating": {
-                  "style": "form"
-                },
-                "Trip.Price": {
                   "style": "form"
                 },
                 "Trip.DryOrWet": {
@@ -781,6 +781,10 @@
                   "Name": {
                     "type": "string"
                   },
+                  "Price": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
                   "Description": {
                     "type": "string"
                   },
@@ -811,10 +815,6 @@
                     "type": "integer",
                     "format": "int32"
                   },
-                  "Price": {
-                    "type": "integer",
-                    "format": "int32"
-                  },
                   "DryOrWet": {
                     "$ref": "#/components/schemas/eDryOrWet"
                   },
@@ -833,6 +833,9 @@
                   "style": "form"
                 },
                 "Name": {
+                  "style": "form"
+                },
+                "Price": {
                   "style": "form"
                 },
                 "Description": {
@@ -860,9 +863,6 @@
                   "style": "form"
                 },
                 "Rating": {
-                  "style": "form"
-                },
-                "Price": {
                   "style": "form"
                 },
                 "DryOrWet": {
@@ -969,6 +969,10 @@
                   "Name": {
                     "type": "string"
                   },
+                  "Price": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
                   "Description": {
                     "type": "string"
                   },
@@ -999,10 +1003,6 @@
                     "type": "integer",
                     "format": "int32"
                   },
-                  "Price": {
-                    "type": "integer",
-                    "format": "int32"
-                  },
                   "DryOrWet": {
                     "$ref": "#/components/schemas/eDryOrWet"
                   },
@@ -1021,6 +1021,9 @@
                   "style": "form"
                 },
                 "Name": {
+                  "style": "form"
+                },
+                "Price": {
                   "style": "form"
                 },
                 "Description": {
@@ -1048,9 +1051,6 @@
                   "style": "form"
                 },
                 "Rating": {
-                  "style": "form"
-                },
-                "Price": {
                   "style": "form"
                 },
                 "DryOrWet": {
@@ -1254,6 +1254,10 @@
             "type": "string",
             "nullable": true
           },
+          "price": {
+            "type": "integer",
+            "format": "int32"
+          },
           "description": {
             "type": "string",
             "nullable": true
@@ -1283,10 +1287,6 @@
             "nullable": true
           },
           "rating": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "price": {
             "type": "integer",
             "format": "int32"
           },

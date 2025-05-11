@@ -88,6 +88,11 @@
         "IsRequired": false
       },
       {
+        "Name": "Trip.Price",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
         "Name": "Trip.Description",
         "Type": "System.String",
         "IsRequired": false
@@ -129,11 +134,6 @@
       },
       {
         "Name": "Trip.Rating",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Trip.Price",
         "Type": "System.Int32",
         "IsRequired": false
       },
@@ -265,6 +265,11 @@
         "IsRequired": false
       },
       {
+        "Name": "Trip.Price",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
         "Name": "Trip.Description",
         "Type": "System.String",
         "IsRequired": false
@@ -306,11 +311,6 @@
       },
       {
         "Name": "Trip.Rating",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Trip.Price",
         "Type": "System.Int32",
         "IsRequired": false
       },
@@ -550,6 +550,11 @@
         "IsRequired": false
       },
       {
+        "Name": "Price",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
         "Name": "Description",
         "Type": "System.String",
         "IsRequired": false
@@ -591,11 +596,6 @@
       },
       {
         "Name": "Rating",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Price",
         "Type": "System.Int32",
         "IsRequired": false
       },
@@ -677,6 +677,11 @@
         "IsRequired": false
       },
       {
+        "Name": "Price",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
         "Name": "Description",
         "Type": "System.String",
         "IsRequired": false
@@ -718,11 +723,6 @@
       },
       {
         "Name": "Rating",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Price",
         "Type": "System.Int32",
         "IsRequired": false
       },
