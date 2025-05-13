@@ -53,7 +53,6 @@ U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProjec
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Azure.Core.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Azure.Identity.dll
-U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Elasticsearch.Net.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
@@ -71,7 +70,6 @@ U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProjec
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Nest.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -123,3 +121,5 @@ U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProjec
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\obj\Debug\net8.0\TripProject.MvcApplicationPartsAssemblyInfo.cs
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Data.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Data.pdb
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
