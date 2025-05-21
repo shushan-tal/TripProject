@@ -1,6 +1,6 @@
 ﻿using Dto.dtos;
 using Microsoft.AspNetCore.Mvc;
-using Service.Interfaces;
+using Service1.Interfaces;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 

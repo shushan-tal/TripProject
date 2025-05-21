@@ -3,11 +3,99 @@
   "WorkspaceRootPath": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\TripProject\\Service\\Services\\CommendService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\tripproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|solutionrelative:tripproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\repository1\\repositories\\custumerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|solutionrelative:repository1\\repositories\\custumerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\service1\\services\\custumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|solutionrelative:service1\\services\\custumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\tripproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|solutionrelative:tripproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\tripproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|solutionrelative:tripproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\service1\\services\\tripservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|solutionrelative:service1\\services\\tripservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\service1\\services\\commendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|solutionrelative:service1\\services\\commendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\tripproject\\controllers\\tripcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|solutionrelative:tripproject\\controllers\\tripcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\repository1\\repositories\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|solutionrelative:repository1\\repositories\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\repository1\\repositories\\commendrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|solutionrelative:repository1\\repositories\\commendrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\repository1\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|solutionrelative:repository1\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\repository1\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|solutionrelative:repository1\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\repository1\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|solutionrelative:repository1\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF03CE8-62BF-4AFB-82ED-4770007D3302}|Data\\Data.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\data\\mydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF03CE8-62BF-4AFB-82ED-4770007D3302}|Data\\Data.csproj|solutionrelative:data\\mydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\tripproject\\controllers\\commendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B884EF0E-C388-4954-A7D8-40275E8A8C79}|TripProject\\TripProject.csproj|solutionrelative:tripproject\\controllers\\commendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\service1\\interfaces\\iuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|solutionrelative:service1\\interfaces\\iuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\service1\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|solutionrelative:service1\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\service1\\services\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|solutionrelative:service1\\services\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6417EB62-BB74-4DDB-8F40-CBA8C131B495}|Dto\\Dto.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\dto\\dtos\\commenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6417EB62-BB74-4DDB-8F40-CBA8C131B495}|Dto\\Dto.csproj|solutionrelative:dto\\dtos\\commenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6417EB62-BB74-4DDB-8F40-CBA8C131B495}|Dto\\Dto.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\dto\\dtos\\custumerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6417EB62-BB74-4DDB-8F40-CBA8C131B495}|Dto\\Dto.csproj|solutionrelative:dto\\dtos\\custumerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\repository1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28302DA9-7A5E-48E8-8725-CEBE9FB406BA}|Repository1\\Repository1.csproj|solutionrelative:repository1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\service1\\service1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|solutionrelative:service1\\service1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|u:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\c#\\git\\tripproject\\service1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E245FBDF-4532-4A14-88FB-F2C901E28661}|Service1\\Service1.csproj|solutionrelative:service1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\TripProject\\Service\\Services\\CommendService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\TripProject\\Repository\\Repositories\\CustumerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -28,6 +116,299 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "TripProject\\Controllers\\CustomerController.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "TripProject\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:17:49.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TripRepository.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Repositories\\TripRepository.cs",
+              "RelativeDocumentMoniker": "Repository1\\Repositories\\TripRepository.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Repositories\\TripRepository.cs",
+              "RelativeToolTip": "Repository1\\Repositories\\TripRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:15:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Program.cs",
+              "RelativeDocumentMoniker": "TripProject\\Program.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Program.cs",
+              "RelativeToolTip": "TripProject\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAtwGAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:20:21.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustumerService.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Services\\CustumerService.cs",
+              "RelativeDocumentMoniker": "Service1\\Services\\CustumerService.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Services\\CustumerService.cs",
+              "RelativeToolTip": "Service1\\Services\\CustumerService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:12:52.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommendService.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Services\\CommendService.cs",
+              "RelativeDocumentMoniker": "Service1\\Services\\CommendService.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Services\\CommendService.cs",
+              "RelativeToolTip": "Service1\\Services\\CommendService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:12:23.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TripServices.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Services\\TripServices.cs",
+              "RelativeDocumentMoniker": "Service1\\Services\\TripServices.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Services\\TripServices.cs",
+              "RelativeToolTip": "Service1\\Services\\TripServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:12:59.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ilogin.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Interfaces\\Ilogin.cs",
+              "RelativeDocumentMoniker": "Repository1\\Interfaces\\Ilogin.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Interfaces\\Ilogin.cs",
+              "RelativeToolTip": "Repository1\\Interfaces\\Ilogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:15:22.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommendRepository.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Repositories\\CommendRepository.cs",
+              "RelativeDocumentMoniker": "Repository1\\Repositories\\CommendRepository.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Repositories\\CommendRepository.cs",
+              "RelativeToolTip": "Repository1\\Repositories\\CommendRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:14:51.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustumerRepository.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Repositories\\CustumerRepository.cs",
+              "RelativeDocumentMoniker": "Repository1\\Repositories\\CustumerRepository.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Repositories\\CustumerRepository.cs",
+              "RelativeToolTip": "Repository1\\Repositories\\CustumerRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:15:33.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository1\\Interfaces\\IRepository.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repository1\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:15:23.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\appsettings.json",
+              "RelativeDocumentMoniker": "TripProject\\appsettings.json",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\appsettings.json",
+              "RelativeToolTip": "TripProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T09:10:02.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TripControllers.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Controllers\\TripControllers.cs",
+              "RelativeDocumentMoniker": "TripProject\\Controllers\\TripControllers.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Controllers\\TripControllers.cs",
+              "RelativeToolTip": "TripProject\\Controllers\\TripControllers.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:17:53.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Icontext.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Interfaces\\Icontext.cs",
+              "RelativeDocumentMoniker": "Repository1\\Interfaces\\Icontext.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Interfaces\\Icontext.cs",
+              "RelativeToolTip": "Repository1\\Interfaces\\Icontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:14:55.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyData.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Data\\MyData.cs",
+              "RelativeDocumentMoniker": "Data\\MyData.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Data\\MyData.cs",
+              "RelativeToolTip": "Data\\MyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:18:14.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyMapper.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Services\\MyMapper.cs",
+              "RelativeDocumentMoniker": "Service1\\Services\\MyMapper.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Services\\MyMapper.cs",
+              "RelativeToolTip": "Service1\\Services\\MyMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:12:57.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IService.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Service1\\Interfaces\\IService.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Service1\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:11:01.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserLogin.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Interfaces\\IUserLogin.cs",
+              "RelativeDocumentMoniker": "Service1\\Interfaces\\IUserLogin.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Interfaces\\IUserLogin.cs",
+              "RelativeToolTip": "Service1\\Interfaces\\IUserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:11:07.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommendController.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Controllers\\CommendController.cs",
+              "RelativeDocumentMoniker": "TripProject\\Controllers\\CommendController.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Controllers\\CommendController.cs",
+              "RelativeToolTip": "TripProject\\Controllers\\CommendController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:00:51.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustumerDto.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Dto\\Dtos\\CustumerDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Dtos\\CustumerDto.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Dto\\Dtos\\CustumerDto.cs",
+              "RelativeToolTip": "Dto\\Dtos\\CustumerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:12:05.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommendDto.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Dto\\Dtos\\CommendDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Dtos\\CommendDto.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Dto\\Dtos\\CommendDto.cs",
+              "RelativeToolTip": "Dto\\Dtos\\CommendDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:09:59.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Class1.cs",
+              "RelativeDocumentMoniker": "Repository1\\Class1.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Repository1\\Class1.cs",
+              "RelativeToolTip": "Repository1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:08:33.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Service1.csproj",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Service1.csproj",
+              "RelativeDocumentMoniker": "Service1\\Service1.csproj",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Service1.csproj",
+              "RelativeToolTip": "Service1\\Service1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T08:05:20.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Class1.cs",
+              "RelativeDocumentMoniker": "Service1\\Class1.cs",
+              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\Service1\\Class1.cs",
+              "RelativeToolTip": "Service1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:05:13.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "CommendService.cs",
               "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\TripProject\\Service\\Services\\CommendService.cs",
               "RelativeDocumentMoniker": "..\\..\\TripProject\\Service\\Services\\CommendService.cs",
@@ -38,37 +419,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CommendController.cs",
-              "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Controllers\\CommendController.cs",
-              "RelativeDocumentMoniker": "TripProject\\Controllers\\CommendController.cs",
-              "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\git\\TripProject\\TripProject\\Controllers\\CommendController.cs",
-              "RelativeToolTip": "TripProject\\Controllers\\CommendController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T08:00:51.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 24,
               "Title": "CustumerRepository.cs",
               "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\TripProject\\Repository\\Repositories\\CustumerRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\TripProject\\Repository\\Repositories\\CustumerRepository.cs",
               "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\TripProject\\Repository\\Repositories\\CustumerRepository.cs",
               "RelativeToolTip": "..\\..\\TripProject\\Repository\\Repositories\\CustumerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T07:59:34.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 25,
               "Title": "CustumerService.cs",
               "DocumentMoniker": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\TripProject\\Service\\Services\\CustumerService.cs",
               "RelativeDocumentMoniker": "..\\..\\TripProject\\Service\\Services\\CustumerService.cs",
               "ToolTip": "U:\\\u05D5 \u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05D8\u05DC\u05D8\u05D5\u05DC \u05D4\u05D7\u05D9\u05D9\u05DE\u05E9\u05DC\u05E0\u05D5!\\C#\\TripProject\\Service\\Services\\CustumerService.cs",
               "RelativeToolTip": "..\\..\\TripProject\\Service\\Services\\CustumerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T07:59:26.445Z"
             }

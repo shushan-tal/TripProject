@@ -1,14 +1,14 @@
 ﻿using Entity.Model;
 using Microsoft.EntityFrameworkCore;
-using Repository.interfaces;
-using Repository.Interfaces;
+
+using Repository1.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repository.Repositories
+namespace Repository1.Repositories
 {
     public class CustumerRepository : IRepository<Custumer>,Ilogin
     {
@@ -40,7 +40,7 @@ namespace Repository.Repositories
             return context.Custumers.FirstOrDefault(x => x.Id == id);
         }
 
-        public Custumer getUserByPassAndUser(string pass, string user)
+        public Custumer getUserByPassAndUser(string user, string pass)
         {
             return context.Custumers.FirstOrDefault(x => x.Name == user && x.Password == pass);
         }

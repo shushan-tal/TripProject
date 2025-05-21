@@ -36,8 +36,8 @@
               "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj": {
                 "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj"
               },
-              "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Repository\\Repository.csproj": {
-                "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Repository\\Repository.csproj"
+              "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\Repository1.csproj": {
+                "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\Repository1.csproj"
               }
             }
           }
@@ -161,14 +161,14 @@
         }
       }
     },
-    "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Repository\\Repository.csproj": {
+    "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\Repository1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Repository\\Repository.csproj",
-        "projectName": "Repository",
-        "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Repository\\Repository.csproj",
+        "projectUniqueName": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\Repository1.csproj",
+        "projectName": "Repository1",
+        "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\Repository1.csproj",
         "packagesPath": "C:\\Users\\usern\\.nuget\\packages\\",
-        "outputPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Repository\\obj\\",
+        "outputPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -212,7 +212,7 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.0, )"
             }

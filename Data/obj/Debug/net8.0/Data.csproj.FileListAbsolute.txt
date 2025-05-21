@@ -22,8 +22,6 @@ U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProjec
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\bin\Debug\net8.0\Data.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\bin\Debug\net8.0\Data.pdb
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\bin\Debug\net8.0\Entity.dll
-U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\bin\Debug\net8.0\Repository.dll
-U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\bin\Debug\net8.0\Repository.pdb
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\bin\Debug\net8.0\Entity.pdb
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
@@ -37,3 +35,5 @@ U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProjec
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\obj\Debug\net8.0\Data.pdb
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\obj\Debug\net8.0\ref\Data.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\bin\Debug\net8.0\Repository1.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Data\bin\Debug\net8.0\Repository1.pdb

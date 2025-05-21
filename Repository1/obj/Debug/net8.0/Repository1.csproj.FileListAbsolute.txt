@@ -1,0 +1,16 @@
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\bin\Debug\net8.0\Repository1.deps.json
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\bin\Debug\net8.0\Repository1.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\bin\Debug\net8.0\Repository1.pdb
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\bin\Debug\net8.0\Entity.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\bin\Debug\net8.0\Entity.pdb
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\obj\Debug\net8.0\Repository1.csproj.AssemblyReference.cache
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\obj\Debug\net8.0\Repository1.GeneratedMSBuildEditorConfig.editorconfig
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\obj\Debug\net8.0\Repository1.AssemblyInfoInputs.cache
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\obj\Debug\net8.0\Repository1.AssemblyInfo.cs
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\obj\Debug\net8.0\Repository1.csproj.CoreCompileInputs.cache
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\obj\Debug\net8.0\Repository1.sourcelink.json
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\obj\Debug\net8.0\Reposito.1026FA86.Up2Date
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\obj\Debug\net8.0\Repository1.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\obj\Debug\net8.0\refint\Repository1.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\obj\Debug\net8.0\Repository1.pdb
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\Repository1\obj\Debug\net8.0\ref\Repository1.dll

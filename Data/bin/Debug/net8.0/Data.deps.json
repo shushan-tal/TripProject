@@ -12,7 +12,7 @@
           "Microsoft.EntityFrameworkCore.Design": "7.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.0",
-          "Repository": "1.0.0"
+          "Repository1": "1.0.0"
         },
         "runtime": {
           "Data.dll": {}
@@ -680,13 +680,13 @@
           }
         }
       },
-      "Repository/1.0.0": {
+      "Repository1/1.0.0": {
         "dependencies": {
           "Entity": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
+          "Microsoft.EntityFrameworkCore": "7.0.0"
         },
         "runtime": {
-          "Repository.dll": {
+          "Repository1.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1174,7 +1174,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Repository/1.0.0": {
+    "Repository1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

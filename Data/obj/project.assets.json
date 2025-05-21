@@ -1143,18 +1143,18 @@
           "bin/placeholder/Entity.dll": {}
         }
       },
-      "Repository/1.0.0": {
+      "Repository1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Entity": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
+          "Microsoft.EntityFrameworkCore": "7.0.0"
         },
         "compile": {
-          "bin/placeholder/Repository.dll": {}
+          "bin/placeholder/Repository1.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Repository.dll": {}
+          "bin/placeholder/Repository1.dll": {}
         }
       }
     }
@@ -3482,10 +3482,10 @@
       "path": "../Entity/Entity.csproj",
       "msbuildProject": "../Entity/Entity.csproj"
     },
-    "Repository/1.0.0": {
+    "Repository1/1.0.0": {
       "type": "project",
-      "path": "../../../TripProject/Repository/Repository.csproj",
-      "msbuildProject": "../../../TripProject/Repository/Repository.csproj"
+      "path": "../Repository1/Repository1.csproj",
+      "msbuildProject": "../Repository1/Repository1.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3494,7 +3494,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.0",
-      "Repository >= 1.0.0"
+      "Repository1 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3533,8 +3533,8 @@
             "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj": {
               "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj"
             },
-            "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Repository\\Repository.csproj": {
-              "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\TripProject\\Repository\\Repository.csproj"
+            "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\Repository1.csproj": {
+              "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\Repository1.csproj"
             }
           }
         }

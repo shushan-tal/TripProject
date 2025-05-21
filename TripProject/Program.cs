@@ -4,10 +4,10 @@ using Entity.Model;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using Repository.interfaces;
+using Repository1.Interfaces;
 
-using Repository.Repositories;
-using Service.Interfaces;
+using Repository1.Repositories;
+using Service1.Interfaces;
 using Service.Services;
 using Sevice.Services;
 using System.Text;
@@ -55,8 +55,8 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddScoped<IRepository<Trip>, TripRepository>();
 builder.Services.AddScoped<IRepository<Commend>, CommendRepository>();
 builder.Services.AddScoped<IRepository<Custumer>, CustumerRepository>();
-//builder.Services.AddScoped<IUserLogin, UserService>();
-//builder.Services.AddScoped<Ilogin, UserRepository>();
+builder.Services.AddScoped<IUserLogin, CustumerService>();
+builder.Services.AddScoped<Ilogin, CustumerRepository>();
 builder.Services.AddScoped<IService<CustumerDto>, CustumerService>();
 builder.Services.AddScoped<IService<CommendDto>, CommendService>();
 builder.Services.AddScoped<IService<TripDto>, TripServices>();
@@ -91,10 +91,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseRouting();
 app.UseHttpsRedirection();
 app.UseAuthentication();
-
+//app.UseCors(MyAllowSpecificOrigins);
 app.UseAuthorization();
 
 app.MapControllers();

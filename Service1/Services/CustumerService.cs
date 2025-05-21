@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Dto.dtos;
 using Entity.Model;
-using Repository.interfaces;
+using Repository1.Interfaces;
 using Service1.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -14,11 +14,13 @@ namespace Service.Services
     public class CustumerService : IService<CustumerDto>,IUserLogin 
     {
         private readonly IRepository<Custumer> repository;
+        private readonly Ilogin ilogin;
         private readonly IMapper mapper;
-        public CustumerService(IRepository<Custumer> repository,IMapper map)
+        public CustumerService(IRepository<Custumer> repository,IMapper map, Ilogin ilogin)
         {
             this.repository = repository;
             this.mapper = map;
+            this.ilogin = ilogin;
         }
         public CustumerDto AddItem(CustumerDto item)
         {
@@ -42,7 +44,7 @@ namespace Service.Services
 
         public CustumerDto getUserBy(string username, string pass)
         {
-            return mapper.Map<Custumer,CustumerDto>( repository.GetAll().FirstOrDefault(x => x.Name == username && x.Password == pass)); 
+            return mapper.Map<Custumer, CustumerDto>(ilogin.getUserByPassAndUser(username, pass));
         }
 
         public void Update(int id, CustumerDto item)

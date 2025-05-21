@@ -10,7 +10,7 @@
         "dependencies": {
           "Data": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.1",
-          "Service": "1.0.0",
+          "Service1": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2",
           "System.IdentityModel.Tokens.Jwt": "8.9.0"
         },
@@ -657,7 +657,7 @@
         "dependencies": {
           "Entity": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0",
-          "Repository": "1.0.0"
+          "Repository1": "1.0.0"
         },
         "runtime": {
           "Data.dll": {
@@ -685,27 +685,27 @@
           }
         }
       },
-      "Repository/1.0.0": {
+      "Repository1/1.0.0": {
         "dependencies": {
           "Entity": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
+          "Microsoft.EntityFrameworkCore": "7.0.0"
         },
         "runtime": {
-          "Repository.dll": {
+          "Repository1.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
       },
-      "Service/1.0.0": {
+      "Service1/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
           "Dto": "1.0.0",
           "Entity": "1.0.0",
-          "Repository": "1.0.0"
+          "Repository1": "1.0.0"
         },
         "runtime": {
-          "Service.dll": {
+          "Service1.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1245,12 +1245,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Repository/1.0.0": {
+    "Repository1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Service/1.0.0": {
+    "Service1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

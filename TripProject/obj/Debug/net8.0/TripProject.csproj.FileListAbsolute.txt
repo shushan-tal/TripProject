@@ -95,12 +95,8 @@ U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProjec
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Dto.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Entity.dll
-U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Repository.dll
-U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Service.dll
-U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Service.pdb
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Dto.pdb
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Entity.pdb
-U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Repository.pdb
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\obj\Debug\net8.0\scopedcss\bundle\TripProject.styles.css
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\obj\Debug\net8.0\staticwebassets.build.json
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\obj\Debug\net8.0\staticwebassets.development.json
@@ -123,3 +119,7 @@ U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProjec
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Data.pdb
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Repository1.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Service1.dll
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Service1.pdb
+U:\ו תכנות\תלמידות\טלטול החיימשלנו!\C#\git\TripProject\TripProject\bin\Debug\net8.0\Repository1.pdb
