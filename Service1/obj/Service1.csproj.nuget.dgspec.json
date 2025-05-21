@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Service1\\Service1.csproj": {}
+  },
+  "projects": {
+    "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Dto\\Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Dto\\Dto.csproj",
+        "projectName": "Dto",
+        "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Dto\\Dto.csproj",
+        "packagesPath": "C:\\Users\\usern\\.nuget\\packages\\",
+        "outputPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usern\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\usern\\.nuget\\packages\\",
+        "outputPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usern\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\Repository1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\Repository1.csproj",
+        "projectName": "Repository1",
+        "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\Repository1.csproj",
+        "packagesPath": "C:\\Users\\usern\\.nuget\\packages\\",
+        "outputPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usern\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj": {
+                "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Service1\\Service1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Service1\\Service1.csproj",
+        "projectName": "Service1",
+        "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Service1\\Service1.csproj",
+        "packagesPath": "C:\\Users\\usern\\.nuget\\packages\\",
+        "outputPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Service1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usern\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Dto\\Dto.csproj": {
+                "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Dto\\Dto.csproj"
+              },
+              "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj": {
+                "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Entity\\Entity.csproj"
+              },
+              "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\Repository1.csproj": {
+                "projectPath": "U:\\ו תכנות\\תלמידות\\טלטול החיימשלנו!\\C#\\git\\TripProject\\Repository1\\Repository1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
